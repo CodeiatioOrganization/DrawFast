@@ -1,2 +1,2 @@
 # DrawFast
-This repository contains the work done on the DrawFast App published on the Google Play Store.
+This repository contains the work that can be Publically displayed done on the DrawFast App published on the Google Play Store.
