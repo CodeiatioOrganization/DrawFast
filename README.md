@@ -7,3 +7,6 @@ Can You Predict The Future and DrawFast? Navigate The Ball Through The Obstacles
 3) Collect Coins, Lives and unlock Maps,New Balls etc with Coins.
 4) #DrawFast Challenge Your Friends and Try to beat them.
 5) Updates Coming Soon.
+
+Enjoy the game using this link
+<a href="https://play.google.com/store/apps/details?id=com.Codeiatio.Drawfast" target="_blank" rel="nofollow">DrawFast</a>
